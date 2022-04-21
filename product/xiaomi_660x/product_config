@@ -6592,7 +6592,6 @@ CONFIG_PACKAGE_ubi-utils=y
 # end of Xorg
 CONFIG_PACKAGE_apid=y
 CONFIG_PACKAGE_appfilter=y
-CONFIG_PACKAGE_kmod-app_delay=y
 CONFIG_PACKAGE_kmod-oaf=y
 CONFIG_PACKAGE_libfros_status=y
 CONFIG_PACKAGE_libfros_uci=y
@@ -6606,5 +6605,5 @@ CONFIG_PACKAGE_rule_apply=y
 CONFIG_PACKAGE_luci-app-portal=y
 CONFIG_PACKAGE_luci-i18n-portal-zh-cn=y
 CONFIG_PACKAGE_kmod-portal=y
-CONFIG_PACKAGE_luci-app-app_delay=y
 CONFIG_PACKAGE_portald=y
+CONFIG_PACKAGE_kmod-app_delay=y

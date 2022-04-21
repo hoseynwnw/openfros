@@ -1941,7 +1941,6 @@ CONFIG_PACKAGE_apid=y
 CONFIG_PACKAGE_appfilter=y
 # CONFIG_PACKAGE_fros is not set
 CONFIG_PACKAGE_fros_files=y
-CONFIG_PACKAGE_kmod-app_delay=y
 CONFIG_PACKAGE_kmod-oaf=y
 CONFIG_PACKAGE_libfros_status=y
 CONFIG_PACKAGE_libfros_uci=y
@@ -4339,7 +4338,6 @@ CONFIG_PACKAGE_luci-app-accesscontrol=y
 # CONFIG_PACKAGE_luci-app-airplay2 is not set
 # CONFIG_PACKAGE_luci-app-aliyundrive-webdav is not set
 # CONFIG_PACKAGE_luci-app-amule is not set
-# CONFIG_PACKAGE_luci-app-app_delay is not set
 # CONFIG_PACKAGE_luci-app-aria2 is not set
 CONFIG_PACKAGE_luci-app-arpbind=y
 # CONFIG_PACKAGE_luci-app-asterisk is not set
@@ -6615,3 +6613,4 @@ CONFIG_STRACE_NONE=y
 # CONFIG_PACKAGE_fontconfig is not set
 # end of Font-Utils
 # end of Xorg
+CONFIG_PACKAGE_kmod-app_delay=y
