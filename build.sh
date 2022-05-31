@@ -3,7 +3,7 @@ CONFIG_PATH="configs"
 #芯片方案目录名称，在$CONFIG_PATH目录中，可以指定编译哪个方案
 #arch_list="mt7621 mt7620 mt7628 rock bcm53xx ipq40xx x86"
 #arch_list="x86 rock bcm53xx ipq40xx"
-arch_list="x86"
+arch_list="bcm53xx"
 #arch_list="ipq40xx qemu_armv8 mt7628"
 #arch_list="x86"
 #指定编译的产品（不指定会编译$arch_list中的所有产品），不指定需要设置为""
@@ -14,7 +14,7 @@ arch_list="x86"
 #编译指定文件就可以设置以上配置名字，也可以自定义加入其他产品配置
 #config_product="x86_64"
 config_product=""
-last_product="xiaomi_4"
+last_product="k3"
 enable_last=0
 SRC_DISK="/dev/sdb"
 fros_ipk=1
